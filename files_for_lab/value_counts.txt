@@ -1,0 +1,99 @@
+Value counts for column state
+California    3150
+Oregon        2601
+Arizona       1703
+Nevada         882
+Washington     798
+Name: state, dtype: int64
+
+Value counts for column response
+No     7826
+Yes    1308
+Name: response, dtype: int64
+
+Value counts for column coverage
+Basic       5568
+Extended    2742
+Premium      824
+Name: coverage, dtype: int64
+
+Value counts for column education
+Bachelor                2748
+College                 2681
+High School or Below    2622
+Master                   741
+Doctor                   342
+Name: education, dtype: int64
+
+Value counts for column employment_status
+Employed         5698
+Unemployed       2317
+Medical Leave     432
+Disabled          405
+Retired           282
+Name: employment_status, dtype: int64
+
+Value counts for column gender
+F    4658
+M    4476
+Name: gender, dtype: int64
+
+Value counts for column location_code
+Suburban    5779
+Rural       1773
+Urban       1582
+Name: location_code, dtype: int64
+
+Value counts for column marital_status
+Married     5298
+Single      2467
+Divorced    1369
+Name: marital_status, dtype: int64
+
+Value counts for column policy_type
+Personal Auto     6788
+Corporate Auto    1968
+Special Auto       378
+Name: policy_type, dtype: int64
+
+Value counts for column policy
+Personal L3     3426
+Personal L2     2122
+Personal L1     1240
+Corporate L3    1014
+Corporate L2     595
+Corporate L1     359
+Special L2       164
+Special L3       148
+Special L1        66
+Name: policy, dtype: int64
+
+Value counts for column renew_offer_type
+Offer1    3752
+Offer2    2926
+Offer3    1432
+Offer4    1024
+Name: renew_offer_type, dtype: int64
+
+Value counts for column sales_channel
+Agent          3477
+Branch         2567
+Call Center    1765
+Web            1325
+Name: sales_channel, dtype: int64
+
+Value counts for column vehicle_class
+Four-Door Car    4621
+Two-Door Car     1886
+SUV              1796
+Sports Car        484
+Luxury SUV        184
+Luxury Car        163
+Name: vehicle_class, dtype: int64
+
+Value counts for column vehicle_size
+Medsize    6424
+Small      1764
+Large       946
+Name: vehicle_size, dtype: int64
+
